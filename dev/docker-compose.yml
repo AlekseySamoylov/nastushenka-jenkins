@@ -3,8 +3,8 @@ services:
   jenkins:
     build: .
     ports:
-    - '80:8080'
-    - '443:8443'
+    - '3001:8080'
+    - '3443:8443'
     environment:
     - JENKINS_USERNAME=user
     - JENKINS_PASSWORD=secret

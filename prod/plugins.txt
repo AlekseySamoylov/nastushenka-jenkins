@@ -30,3 +30,7 @@ github-branch-source:2.3.6
 github-issues:1.2.4
 github-oauth:0.29
 github:1.29.2
+ssh-agent:1.16
+ssh-credentials:1.14
+ssh-pipeline-steps:1.1.0
+ssh:2.6.1
